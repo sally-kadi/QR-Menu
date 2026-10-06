@@ -1,19 +1,57 @@
 Hi, I’m Sally Kadi 👋
 
 🎓 Management Information Systems (MIS) Student
-💻 Interested in Web Development and Technology
-📊 Skills: Excel, SQL, PHP, HTML & CSS
-🌱 Currently learning Full-Stack Web Development
-🚀 I’m interested in building projects and developing my technical skills.
+💻 Aspiring Web Developer
+📍 Lebanon
 
-Skills
+👩‍💻 About Me
 
-* HTML & CSS
+I’m a Management Information Systems student interested in web development and technology.
+
+I’m currently improving my skills through courses, internships, and hands-on projects. I enjoy learning new technologies and building websites that are simple, useful, and user-friendly.
+
+🛠️ Skills
+
+* HTML
+* CSS
 * PHP
 * SQL
-* Excel
-* Web Development
-* Git & GitHu
+* MySQL
+* Microsoft Excel
+* Microsoft Access
+* Git & GitHub
+
+🚀 Currently Learning
+
+* Full-Stack Web Development
+* JavaScript
+* APIs
+* Git & GitHub
+* Building real-world web projects
+
+📂 Projects
+
+🍽️ QR Menu Website
+
+A responsive restaurant QR menu website built as part of a web development task.
+
+Technologies: HTML, CSS
+
+🌐 Web Development Projects
+
+More projects coming soon as I continue learning and building.
+
+🎯 Goals
+
+* Become a skilled Web Developer
+* Build real-world projects
+* Gain professional experience
+* Continue learning and improving my technical skills
+
+📫 Connect With Me
+
+* LinkedIn: Sally Kadi
+* GitHub: Sally Kadi
 
 <!--
 **sally-kadi/sally-kadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
