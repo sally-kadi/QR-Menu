@@ -1,11 +1,6 @@
 <?php
 
-$host = "localhost";
-$username = "root";
-$password = "";
-$database = "qr_menu";
-
-$conn = new mysqli($host, $username, $password, $database);
+$conn = new mysqli("localhost", "root", "", "qr_menu");
 
 if ($conn->connect_error) {
     die("Database connection failed: " . $conn->connect_error);
