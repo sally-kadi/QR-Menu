@@ -50,8 +50,8 @@ More projects coming soon as I continue learning and building.
 
 📫 Connect With Me
 
-* LinkedIn: Sally Kadi
-* GitHub: Sally Kadi
+* LinkedIn: https://www.linkedin.com/in/sally-kadi-03865934b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+* GitHub: https://github.com/sally-kadi
 
 <!--
 **sally-kadi/sally-kadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
